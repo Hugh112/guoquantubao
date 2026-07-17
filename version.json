@@ -3,7 +3,7 @@
   "min_required_version": "2.1.0",
   "update_title": "国权图宝 v2.1.1 线上版免管理员修复",
   "description": "修复线上版启动时 Updater.exe 提示需要管理员权限的问题。用户可自行选择是否更新；本地保留启动器、Config、Templates、Backgrounds、Output、Logs 等目录。",
-  "download_url": "https://github.com/Hugh112/guoquantubao/releases/download/v2.1.1/GuoquanTubao_v2.1.1_patch.zip",
+  "download_url": "https://raw.githubusercontent.com/Hugh112/guoquantubao/main/updates/GuoquanTubao_v2.1.1_patch.zip",
   "force_update": false,
   "sha256": "bbe0f0113ce8b7d1b0f6ee6970f2adbea303883c1aeceed177021321903be1dc"
 }
